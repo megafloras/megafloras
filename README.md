@@ -1,6 +1,8 @@
 # Oh hello!
 
-My name is Jayne! I am a nonbinary trans woman (she/they pronouns) who is currently in training to become an SDE! 
+My name is Jayne! I am a nonbinary trans woman (she/they pronouns) and I'm a software engineer!
+
+My professional developer skills include proficiency in Java and some experience with JS/TS, Ruby, Go, and C.
 
 Hobbies outside of dev work include Mechanical Keyboards, Video Games, and 3D Printing. Sometimes all of these things mesh in very interesting ways, and I hope to capture some of that in some project work here.
 
